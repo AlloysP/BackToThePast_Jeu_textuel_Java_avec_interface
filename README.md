@@ -1,12 +1,15 @@
 Author: PETIT Alloys
 # BackToThePast_Jeu_textuel_avec_interface
 C'est un projet que j'ai réalisé pendant ma première année de classe préparatoire, il s'agit d'un jeu textuel programmé en Java, et qui est accompagné d'une interface minimaliste pour plus de confort.
+
 Le jeu n'est pas vraiment finis dans le sens où j'aurais aimé y ajouter quelques éléments supplémentaires (tel qu'une meilleure incorporation de la langue anglaise dans le jeu), mais le jeu est néanmoins parfaitement fonctionnel.
 
 Le scénario n'est volontairement pas très expliqué dans le jeu. Voici à peu près tout ce qu'il y a à savoir pour finir le jeu:
+
 -Si le joueur revient dans le présent avec de la nourriture illimité pour sauver la Terre
 et qu’il a une potion de résurection pour faire revivre sa femme alors il gagne (Voir scnénario plus bas).
 Indices: L'inventaire a par défaut 10 de capacité, le magick Cookie n'est pas un cookie comme les autres, et il y a un PNJ pouvant changer de salle qui a peut-être un rôle à jouer.
+
 -S’il ne réussit pas à gagner en moins de 45 déplacements il perd
 
 
