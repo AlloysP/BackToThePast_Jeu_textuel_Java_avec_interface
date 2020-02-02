@@ -12,7 +12,7 @@ Indices: L'inventaire a par défaut 10 de capacité, le magick Cookie n'est pas 
 
 -S’il ne réussit pas à gagner en moins de 45 déplacements il perd
 
-
+-----------------------------------------------------------------
 La petite histoire qui va avec (lecture optionnelle):
      L’histoire se passe en au XXIII siècle sur la planète Terre maintenant devenue une dystopie. Le personnage principal est un professeur scientifique brillant à la personnalité très fermée et hostile (bref, c’est une ordure).Mais il n’en a pas toujours été ainsi ; le scientifique était un homme heureux quelques années plutôt. En effet il avait une femme qu’il a tragiquement perdue durant l’une de ses expériences. Depuis, il est un homme dévasté par la mort de sa bien-aimée et est devenu quelqu’un de très fermé et d’humainement insupportable.
 
